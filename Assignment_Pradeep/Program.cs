@@ -58,7 +58,7 @@ namespace Assignment1
             try
             {
                 int i, j;
-                Console.WriteLine("The prime numbers between the provided range of numbers is: ");
+                Console.WriteLine("The prime numbers between the provided range of numbers are: ");
                 for (i = x; i <= y; i++)
                 {
                     for (j = 2; j <= i; j++)
